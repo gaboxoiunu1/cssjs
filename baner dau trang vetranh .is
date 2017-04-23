@@ -115,7 +115,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/RPcHQ6' target='_blank'><img src='https://lh3.googleusercontent.com/-HzCZvQ-N7lk/WM1f8GO7JZI/AAAAAAAAAB4/OoeIFOdTGhIwhrTaPzKY82SOHsArjPZ4wCL0B/s530-d-p-rw/13989496_1089186731159524_1306047973_n.jpg' width='500px'/><br/>13 Ship Tận Răng</a>. Gọi ngay. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://scontent.fsgn5-2.fna.fbcdn.net/v/t1.0-9/18034019_300493920385560_8686671033247780634_n.jpg?oh=786271f05ae9e497642a04e901811cfc&oe=599871AF' width='500px'/><br/>13 Khuyến Mãi 20%</a>. Mừng 30/4 - 1/5. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });

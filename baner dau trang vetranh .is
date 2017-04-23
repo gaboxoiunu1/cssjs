@@ -1,5 +1,3 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
@@ -117,7 +115,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://lh3.googleusercontent.com/-c8srs-lF2oA/WPz0qXIW36I/AAAAAAAAAIk/HfonBhYL4jY5Vnz5giDezTEnmxF8dB0TwCL0B/w501-d-h402-p-rw/mau-ve-tranh-tuong-nghe-thuat-cho-phong-khach-dep-4.jpg' width='500px'/><br/> Giảm Giá 20% Nhân Dịp 30/1 - 1/5 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/RPcHQ6' target='_blank'><img src='https://lh3.googleusercontent.com/-HzCZvQ-N7lk/WM1f8GO7JZI/AAAAAAAAAB4/OoeIFOdTGhIwhrTaPzKY82SOHsArjPZ4wCL0B/s530-d-p-rw/13989496_1089186731159524_1306047973_n.jpg' width='500px'/><br/>13 Ship Tận Răng</a>. Gọi ngay. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
